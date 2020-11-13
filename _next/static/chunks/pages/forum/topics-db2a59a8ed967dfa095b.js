@@ -1,1 +1,0 @@
-_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[10],{J209:function(n,_,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/forum/topics",function(){return o("V1C9")}])},V1C9:function(n,_){}},[["J209",0]]]);
